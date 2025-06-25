@@ -7,3 +7,4 @@ By combining the extracted data and statistical insights, GIS tools allow for th
 This map will serve as a valuable tool for predicting flood risks, aiding in disaster management and mitigation strategies across Kazakhstan.
 Specifically, currently I work on Astana's snow cover's height (cm) to analyze the trend (2000-2025)
 I will update this repository if there are any changes.
+Now I need to do stacked columns and cumulative dataset, so I might need some time to do it.
